@@ -1,4 +1,3 @@
-baseURL = 'binhu.store'
 title = '滨湖壹号业委会笔记'
 theme = "github.com/sunwei/hugo-book"
 publishDir = "public"
