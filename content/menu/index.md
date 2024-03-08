@@ -6,4 +6,6 @@ headless: true
 - [待办事项]({{< relref "/docs/todo" >}})
 - [技能培训]({{< relref "/docs/skill" >}})
 - [物业信息]({{< relref "/docs/wuye" >}})
+- [业主建议]({{< relref "/docs/suggestion" >}})
+  - [公共空间]({{< relref "/docs/suggestion/public-space" >}})
 <br />
