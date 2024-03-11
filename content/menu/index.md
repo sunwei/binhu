@@ -10,4 +10,6 @@ headless: true
   - [退休年审]({{< relref "/docs/community/retire" >}})
 - [业主建议]({{< relref "/docs/suggestion" >}})
   - [公共空间]({{< relref "/docs/suggestion/public-space" >}})
+- [小区安全]({{< relref "/docs/security" >}})
+  - [电动自行车]({{< relref "/docs/security/ebycle" >}})
 <br />
