@@ -41,3 +41,6 @@ type: docs
 
 {{< /columns >}}
 
+### 职责及工作方式
+
+![stakeholders](image/stakeholders.jpg)

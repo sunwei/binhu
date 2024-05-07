@@ -4,6 +4,7 @@ headless: true
 
 - **类别**
 - [待办事项]({{< relref "/docs/todo" >}})
+  - [电动自行车]({{< relref "/docs/todo/ebicycle" >}})
 - [热心计划]({{< relref "/docs/hot" >}})
 - [物业信息]({{< relref "/docs/wuye" >}})
 - [社区服务]({{< relref "/docs/community" >}})
