@@ -27,16 +27,17 @@ title: 电动车安全选址
 
 ## 选址方案一
 
-![1-1](image/1-1.jpg)
-![1-2](image/1-2.jpg)
-
-## 选址方案二
-
 ![electric bicycle address](image/ebicycle-address.jpg)
 
-## 选址方案三
+## 选址方案二
 
 拓展车位
 
 ![20](image/20.jpg)
 
+### 【不做推荐】
+
+备选方案
+
+![1-1](image/1-1.jpg)
+![1-2](image/1-2.jpg)
