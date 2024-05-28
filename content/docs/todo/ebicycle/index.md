@@ -5,7 +5,7 @@ title: 电动车安全选址
 # 计划步骤
 
 1. 重新选址，征集方案。（已完成）
-2. 方案投票（进行中：5月20号 ～ 5月27号）
+2. 方案投票，[投票链接](https://jinshuju.net/f/StOCPd)（进行中：5月27号 ～ 6月7号）
 3. 对接物业，确认实施方案 
    - 备案（已确认）
          - 和物业历经理确认过项目流程后，被告知需要和消防部门沟通备案相关事宜
@@ -27,7 +27,8 @@ title: 电动车安全选址
 
 ## 选址方案一
 
-![electric bicycle address](image/ebicycle-address.jpg)
+![1-1](image/1-1.jpg)
+![1-2](image/1-2.jpg)
 
 ## 选址方案二
 
@@ -39,5 +40,4 @@ title: 电动车安全选址
 
 备选方案
 
-![1-1](image/1-1.jpg)
-![1-2](image/1-2.jpg)
+![electric bicycle address](image/ebicycle-address.jpg)
