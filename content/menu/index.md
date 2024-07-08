@@ -7,6 +7,7 @@ headless: true
   - [费用明细]({{< relref "/docs/todo/cost" >}})
   - [电动自行车]({{< relref "/docs/todo/ebicycle" >}})
   - [沟通原则]({{< relref "/docs/todo/communication" >}})
+- [物业动态]({{< relref "/docs/wuye" >}})
 - [热心计划]({{< relref "/docs/hot" >}})
 - [小区信息]({{< relref "/docs/info" >}})
 - [社区服务]({{< relref "/docs/community" >}})
